@@ -13,7 +13,7 @@
 
 - 💪 My hobbies **Python && Django && Coding**
 
-- 🔭 I’m currently working on **Net Net** <a href="https://hellonetnet.com"> Net Net </a>
+- 🔭 I’m currently working on <a href="https://hellonetnet.com"> **Net Net**  </a>
   
 - 🌱 I’m currently learning
   
@@ -21,7 +21,11 @@
 
 </p>
   
-  
+
+<br>
+<br>
+
+
 ## 📖 Skills
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
