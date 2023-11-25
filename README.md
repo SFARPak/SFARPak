@@ -10,8 +10,10 @@
 - 🔭 I’m currently working on **Net Net** <a href="https://hellonetnet.com"> Net Net </a>
   
 - 🌱 I’m currently learning
-- 
+  
 - 👯 I’m looking to partner with CTO, Business Owners, Freelancers
+
+  
   
 ## 📖 Skills
 <div align="left">
