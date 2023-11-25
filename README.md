@@ -1,8 +1,11 @@
-### Hi there 👋
+
 <p align="center">
+  ### Hi there 👋
+  
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Nyala&size=45&pause=1000&color=2233B5&center=true&vCenter=true&random=false&width=435&height=120&lines=Full+Stack+Developer;Cloud+Infrastructure+(AWS%2FOCI%2FGCP)" alt="Typing SVG" /></a>
 </p>
 
+<p>
 - 📫 How to reach me **farhan@alitech.io**
 
 - 💪 My hobbies **Python && Django && Coding**
@@ -13,6 +16,7 @@
   
 - 👯 I’m looking to partner with CTO, Business Owners, Freelancers
 
+</p>
   
   
 ## 📖 Skills
